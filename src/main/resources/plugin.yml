@@ -1,0 +1,6 @@
+name: PlayerMention
+version: @version@
+main: com.github.frcsty.playermention.MentionPlugin
+author: Frcsty
+api-version: 1.13
+depend: ["Essentials"]
